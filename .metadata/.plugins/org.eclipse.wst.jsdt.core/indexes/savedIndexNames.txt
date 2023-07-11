@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Pulkit.Mittal\eclipse-IGT\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2218834845.index
+2674799530.index
+4052759379.index
+3817317325.index
+1749378579.index
